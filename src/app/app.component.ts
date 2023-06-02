@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { UpperCasePipe } from '@angular/common';
+
 
 @Component({
   selector: 'app-root',
